@@ -1,2 +1,2 @@
 # BDFProj
-Projeto da cadeira de Big Data Fiundation
+Projeto da cadeira de Big Data Foundation
